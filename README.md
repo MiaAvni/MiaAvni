@@ -36,7 +36,7 @@ Candidate for B.S., Data Science & Business Administration (Expected 2028)
 - **Smart Calculator** (Java)  
   Extended calculator logic to support consecutive operators, skipped operands, and repeated evaluation with `=`. Included full JUnit test coverage for correctness.  
 
-- **LightEmAll Game** (Java · Algorithms)  
+- **LightEmAll Game** (Java · GUI · Algorithms)  
   Puzzle game with GUI board, Kruskal’s algorithm for random generation, BFS for power propagation, and comprehensive testing for replayability.  
 
 - **Connections Game** (Java · GUI)  
