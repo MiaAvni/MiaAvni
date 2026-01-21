@@ -76,8 +76,7 @@ Tel Aviv, Israel | Jan 2024 – Apr 2024
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com)  
-- [Portfolio / Website](#)  
+- [LinkedIn](https://www.linkedin.com/in/mia-avni/)  
 
 ---
 
