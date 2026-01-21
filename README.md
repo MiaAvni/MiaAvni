@@ -43,13 +43,13 @@ Sandbox (Developer) | Oasis (Developer) | Women in Business | Hillel (Intern)
 - Built relational database schemas and SQL queries for memberships and analytics.  
 - Integrated Flask backend with Streamlit frontend for seamless end-to-end data flow.  
 
-**EventLoop Boston – Full-Stack Web Application**  
+**EventLoop Boston – Full-Stack Web Application**  *(Private – available upon request)*  
 *Sep 2025 – Nov 2025*  
 - Designed and implemented a real-time community event platform using React & Next.js.  
 - Created Supabase database schemas for users and event data.  
 - Designed UI in Figma and implemented responsive, dynamic pages.  
 
-**Calendar – Desktop Application**  
+**Calendar – Desktop Application**  *(Private – available upon request)*  
 *Jun 2025 – Jul 2025*  
 - Built a Java calendar application using MVC architecture, Swing GUI, and the Command Pattern.  
 - Implemented event management, CSV import/export, statistics, and timezone conversion.  
