@@ -1,6 +1,6 @@
 # Hi there, I'm Mia Avni 👋
 
-I'm a **Data Science & Business** student at Northeastern University, passionate about leveraging data to build meaningful applications and experiences. I enjoy full-stack development, data analytics, and exploring how technology intersects with human behavior.
+I'm a **Data Science & Business Administration** student at Northeastern University, passionate about leveraging data to build meaningful applications and experiences. I enjoy full-stack development, data analytics, and exploring how technology intersects with human behavior.
 
 ---
 
